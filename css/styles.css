@@ -78,8 +78,10 @@ button {
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
+
   letter-spacing: 0.02em;
   color: #fff;
+  text-align: center;
 }
 .section-one-button {
   font-family: inherit;
